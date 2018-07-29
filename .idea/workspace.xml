@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba76078-6d2c-4d2b-98fc-b7b063675cfb" name="Default" comment="" />
+    <list default="true" id="8ba76078-6d2c-4d2b-98fc-b7b063675cfb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yellowpages/Temp/advertLinksTemp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yellowpages/page.py" beforeDir="false" afterPath="$PROJECT_DIR$/yellowpages/page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yellowpages/yellowPageMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/yellowpages/yellowPageMain.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="deneme37" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -23,26 +31,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yellowpages/page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+            <state relative-caret-position="394">
+              <caret line="226" column="4" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yellowPageMain.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-end-line="269" selection-end-column="15" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yellowPageMain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageMain.py">
+      <file leaf-file-name="yellowPageconfiguration.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageconfiguration.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="40" column="77" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="77" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="16" selection-start-line="2" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yellow Pages.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yellowpages/AdvertDetails/Yellow Pages.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -72,8 +95,16 @@
       <find>worker_link_list_to_write</find>
       <find>my_profile_links</find>
       <find>worker</find>
-      <find>browse to links</find>
+      <find />
+      <find>savetoCsv</find>
       <find>GetadvertLink</find>
+      <find>advert_mainId_xpath</find>
+      <find>my_advert_mainId</find>
+      <find>dfafec38bced</find>
+      <find>a688bb96-e5d0-4733-9031-784a6da7922d</find>
+      <find>paging_element</find>
+      <find>advert_FILE_HEADERS</find>
+      <find>fileEmpty</find>
     </findStrings>
     <replaceStrings>
       <replace>advert</replace>
@@ -81,6 +112,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,22 +134,25 @@
         <option value="$PROJECT_DIR$/Logging/post_net_to_edit_ata.py" />
         <option value="$PROJECT_DIR$/ProfilesWorkana/Temp/WorkerLinksTemp.csv" />
         <option value="$PROJECT_DIR$/ProfilesWorkana/deneme.py" />
-        <option value="$PROJECT_DIR$/yellowpages/yellowPageMain.py" />
         <option value="$PROJECT_DIR$/yellowpages/page.py" />
+        <option value="$PROJECT_DIR$/yellowpages/yellowPageconfiguration.ini" />
+        <option value="$PROJECT_DIR$/yellowpages/yellowPageMain.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="465" />
     <option name="y" value="41" />
     <option name="width" value="1345" />
     <option name="height" value="582" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,24 +163,18 @@
             <path>
               <item name="deneme37" type="b2602c69:ProjectViewProjectNode" />
               <item name="deneme37" type="462c0819:PsiDirectoryNode" />
-              <item name="Logging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deneme37" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deneme37" type="462c0819:PsiDirectoryNode" />
               <item name="yellowpages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -164,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.page">
+  <component name="RunManager" selected="Python.yellowPageMain">
     <configuration name="deneme" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deneme37" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,24 +207,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProfilesWorkana/deneme.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="logger-demo-console" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deneme37" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logging" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logging/logger-demo-console.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,20 +266,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="yellowPageMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deneme37" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yellowpages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yellowpages/yellowPageMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.post_net_to_edit_ata" />
-      <item itemvalue="Python.logger-demo-console" />
       <item itemvalue="Python.post_net_to_edit_ata (1)" />
       <item itemvalue="Python.deneme" />
       <item itemvalue="Python.page" />
+      <item itemvalue="Python.yellowPageMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.yellowPageMain" />
         <item itemvalue="Python.page" />
         <item itemvalue="Python.deneme" />
         <item itemvalue="Python.post_net_to_edit_ata (1)" />
         <item itemvalue="Python.post_net_to_edit_ata" />
-        <item itemvalue="Python.logger-demo-console" />
       </list>
     </recent_temporary>
   </component>
@@ -295,26 +324,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1748512" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32838285" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49253732" visible="true" weight="0.12276786" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32792208" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="0" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.33169934" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="0" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.21969697" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32900432" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.3625541" />
+      <window_info id="Favorites" order="0" sideWeight="0.5074627" side_tool="true" weight="0.12276786" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.35947713" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3283582" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32669982" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -368,77 +397,29 @@
           <line>146</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yellowpages/page.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yellowpages/page.py</url>
+          <line>222</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yellowpages/page.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="23" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.log" />
-    <entry file="file://$PROJECT_DIR$/post_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PostUpdates.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logging/post_net_to_edit_ata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PostsSkipped.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deneme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aaa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="5" selection-start-line="42" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/post_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deneme.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -484,13 +465,6 @@
     <entry file="file://$PROJECT_DIR$/venv/aaa.py" />
     <entry file="file://$PROJECT_DIR$/Posts/20180708204323_mall_post_10156553238754591.csv" />
     <entry file="file://$PROJECT_DIR$/venv/post_new_to_edit_ata.py" />
-    <entry file="file://D:/pyt37/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="1866" selection-start-line="1866" selection-end-line="1866" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aaa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -578,13 +552,6 @@
     <entry file="file://$PROJECT_DIR$/ProfilesWorkana/WorkanaCertf.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3383">
-          <caret line="331" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/pyt37/Lib/_bootlocale.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -654,22 +621,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageMain.py">
+    <entry file="file://$PROJECT_DIR$/yellowpages/Temp/advertLinksTemp.csv" />
+    <entry file="file://$PROJECT_DIR$/yellowpages/AdvertDetails/20180728012229_Yellow Pages.csv" />
+    <entry file="file://D:/pyt37/Lib/csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="77" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="77" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="367">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/pyt37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32555">
+          <caret line="1917" selection-start-line="1917" selection-end-line="1917" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/pyt37/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="408" selection-start-line="408" selection-end-line="408" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowpages/Temp/advertmainIdTemp.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowpages/AdvertDetails/Yellow Pages.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowpages/FBScraper.log" />
+    <entry file="file://$PROJECT_DIR$/yellowpages/aa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageconfiguration.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="16" selection-start-line="2" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yellowpages/page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="186" column="23" selection-start-line="186" selection-start-column="23" selection-end-line="186" selection-end-column="23" />
+        <state relative-caret-position="394">
+          <caret line="226" column="4" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellowpages/yellowPageMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-end-line="269" selection-end-column="15" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
